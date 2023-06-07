@@ -8,6 +8,8 @@
 
 3)pip install numpy
 
+4)pip install pytesseract
+
 #Execute
 
 python filename.py
